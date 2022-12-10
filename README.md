@@ -1,2 +1,7 @@
 # 2023-AIKU_DeepLearning-Bootcamp
-2023-1 고려대학교 AIKU 딥러닝 방학 부트캠프: Momentum 
+![](logo.png)
+2023-AIKU_DeepLearning-Bootcamp is the material (lecture notes, exercises and assignments) repository for learning and experiencing various deep learning and its applications with PyTorch at Korea University AIKU.
+
+## Contents
+
+## References
