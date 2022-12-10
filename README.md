@@ -12,7 +12,7 @@
 - **RNN and Attention**
 - **Natural Language Processing**
 - **3D Vision and Videos**
-- **Generative Models **
+- **Generative Models**  
 
 More information is available at [curriculum.md](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/curriculum.md)
 ## References
