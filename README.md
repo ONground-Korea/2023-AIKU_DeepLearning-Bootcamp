@@ -3,7 +3,9 @@
 2023-AIKU_DeepLearning-Bootcamp is the material (lecture notes, exercises and assignments) repository for learning and experiencing various deep learning and its applications with PyTorch at Korea University AIKU.
 
 ## Contents
-- **1. Machine Learning and MLP**
+- **1. Machine Learning and MLP** - [Seongchan Kim](https://github.com/deep-overflow)
+  - [Lecture 1](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/1.%20Machine%20Learning%20and%20MLP.pdf)
+  - [Exercise](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Exercises/1.%20Machine%20Learning%20and%20MLP.ipynb)
   - Assignment #1
 - **2. CNN and CNN Architectures**
   - Assignment #2: Implementation of AlexNet and VGG16
