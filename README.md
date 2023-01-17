@@ -6,7 +6,7 @@
 - **1. Machine Learning and MLP** - [Seongchan Kim](https://github.com/deep-overflow)
   - [[Lecture 1]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/1.%20Machine%20Learning%20and%20MLP.pdf)
   - [[Exercise]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Exercises/1.%20Machine%20Learning%20and%20MLP.ipynb)
-  - [[Assignment #1]]
+  - [[Assignment #1]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/1.%20Machine%20Learning%20and%20MLP.ipynb)
 - **2. CNN and CNN Architectures**
   - Assignment #2: Implementation of AlexNet and VGG16
 - **3. Object Detection and Segmentation**
