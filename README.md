@@ -10,8 +10,8 @@
 - **2. CNN and CNN Architectures** - [Honggyu An]()
   - [[Lecture 2]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/2.%20CNN%20and%20CNN%20Architecture.pdf)
   - [[Assignment #2: Implementation of AlexNet and VGG16]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/2.%20CNN%20and%20CNN%20Architectures.ipynb)
-- **3. Object Detection and Segmentation**
-  - Assignment #3: Impelment Custom Dataset and Fintune Faster RCNN
+- **3. Object Detection and Segmentation** - [Jisang Han](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp)
+  - [[Assignment #3: Impelment Custom Dataset and Fintune Faster RCNN]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/tree/main/Assignments/3.%20Object%20Detection%20and%20Segmentation)
 - **4. RNN and Attention**
 - **5. Natural Language Processing**
 - **6. 3D Vision and Videos**
