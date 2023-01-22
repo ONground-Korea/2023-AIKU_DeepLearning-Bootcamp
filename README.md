@@ -7,8 +7,9 @@
   - [[Lecture 1]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/1.%20Machine%20Learning%20and%20MLP.pdf)
   - [[Exercise]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Exercises/1.%20Machine%20Learning%20and%20MLP.ipynb)
   - [[Assignment #1]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/1.%20Machine%20Learning%20and%20MLP.ipynb)
-- **2. CNN and CNN Architectures**
-  - Assignment #2: Implementation of AlexNet and VGG16
+- **2. CNN and CNN Architectures** - [Honggyu An]()
+  - [[Lecture 2]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/2.%20CNN%20and%20CNN%20Architecture.pdf)
+  - [[Assignment #2: Implementation of AlexNet and VGG16]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/2.%20CNN%20and%20CNN%20Architectures.ipynb)
 - **3. Object Detection and Segmentation**
   - Assignment #3: Impelment Custom Dataset and Fintune Faster RCNN
 - **4. RNN and Attention**
