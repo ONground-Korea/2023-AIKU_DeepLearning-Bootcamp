@@ -17,7 +17,9 @@
   - [[Lecture 4]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/4.%20RNN%20and%20Attention.pdf)
   - [[Assignment 4]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/4.%20RNN%20and%20Attention.ipynb)
 - **5. Natural Language Processing**
-- **6. 3D Vision and Videos**
+- **6. 3D Vision and Videos** - [Jisang Han](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp)
+  - [[Lecture 6]]()
+  - [[Assignment 6]]()
 - **7. Generative Models**  
 
 More information is available at [curriculum.md](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/curriculum.md)
