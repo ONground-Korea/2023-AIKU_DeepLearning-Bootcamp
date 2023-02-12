@@ -10,17 +10,19 @@
 - **2. CNN and CNN Architectures** - [Honggyu An]()
   - [[Lecture 2]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/2.%20CNN%20and%20CNN%20Architecture.pdf)
   - [[Assignment #2: Implementation of AlexNet and VGG16]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/2.%20CNN%20and%20CNN%20Architectures.ipynb)
-- **3. Object Detection and Segmentation** - [Jisang Han](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp)
+- **3. Object Detection and Segmentation** - [Jisang Han](https://github.com/ONground-Korea)
   - [[Lecture 3]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/3.%20Object%20Detection%20and%20Segmentation.pdf)
   - [[Assignment #3: Impelment Custom Dataset and Fintune Faster RCNN]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/tree/main/Assignments/3.%20Object%20Detection%20and%20Segmentation)
 - **4. RNN and Attention** - [Seongyun Lee](https://github.com/sylee0520)
   - [[Lecture 4]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/4.%20RNN%20and%20Attention.pdf)
   - [[Assignment 4]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/4.%20RNN%20and%20Attention.ipynb)
 - **5. Natural Language Processing**
-- **6. 3D Vision and Videos** - [Jisang Han](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp)
+- **6. 3D Vision and Videos** - [Jisang Han](https://github.com/ONground-Korea)
   - [[Lecture 6]]()
   - [[Assignment 6]]()
-- **7. Generative Models**  
+- **7. Generative Models** - [Jisang Han](https://github.com/ONground-Korea)
+  - [[Lecture 7]]()
+  - [Assignment 7]]()
 
 More information is available at [curriculum.md](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/curriculum.md)
 ## References
