@@ -21,7 +21,7 @@
   - [[Lecture 6]]()
   - [[Assignment 6]]()
 - **7. Generative Models** - [Jisang Han](https://github.com/ONground-Korea)
-  - [[Lecture 7]]()
+  - [[Lecture 7]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/7.%20Generative%20Models.pdf)
   - [[Assignment 7]]()
 
 More information is available at [curriculum.md](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/curriculum.md)
