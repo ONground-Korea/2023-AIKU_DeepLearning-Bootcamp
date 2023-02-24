@@ -1,6 +1,14 @@
 # 7. Generative Models
 
 ## Implementations of VAE and GAN
+### Train
+```
+# VAE
+python train.py --model vae
+
+# GAN
+python train.py --model gan
+```
 ### VAE
 ![image](https://user-images.githubusercontent.com/78339280/221275788-34b74db9-3601-410a-9b82-7ddaf9d6ce52.png)
 
