@@ -12,6 +12,7 @@ python train.py --model gan
 ### .py in Colab
 https://dacon.io/codeshare/4561
 
+---
 ### 1. VAE
 ![image](https://user-images.githubusercontent.com/78339280/221275788-34b74db9-3601-410a-9b82-7ddaf9d6ce52.png)
 
