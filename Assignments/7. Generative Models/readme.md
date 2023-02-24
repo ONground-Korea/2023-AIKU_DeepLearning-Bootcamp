@@ -28,3 +28,6 @@ python train.py --model gan
 ```
 #### Results
 ![gan](https://user-images.githubusercontent.com/78339280/221277660-ba2b0292-18e1-41cf-b222-4b20ffe5b3a9.gif)
+
+### .py in Colab
+https://dacon.io/codeshare/4561
