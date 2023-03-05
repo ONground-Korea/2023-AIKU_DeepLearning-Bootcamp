@@ -16,13 +16,15 @@
 - **4. RNN and Attention** - [Seongyun Lee](https://github.com/sylee0520)
   - [[Lecture 4]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/4.%20RNN%20and%20Attention.pdf)
   - [[Assignment 4]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/4.%20RNN%20and%20Attention.ipynb)
-- **5. Natural Language Processing**
+- **5. Natural Language Processing** - [Seongyun Lee](https://github.com/sylee0520)
+  - [[Lecture 5]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/5.%20Natural%20Language%20Processing.pdf)
+  - [[Assignment 5]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Assignments/5.%20Natural%20Language%20Processing.ipynb)
 - **6. 3D Vision and Videos** - [Jisang Han](https://github.com/ONground-Korea)
-  - [[Lecture 6]]()
+  - [[Lecture 6]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/tree/main/Lectures/6.%203D%20Vision%20and%20Videos)
   - [[Assignment 6]]()
 - **7. Generative Models** - [Jisang Han](https://github.com/ONground-Korea)
   - [[Lecture 7]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/Lectures/7.%20Generative%20Models.pdf)
-  - [[Assignment 7]]()
+  - [[Assignment 7]](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/tree/main/Assignments/7.%20Generative%20Models)
 
 More information is available at [curriculum.md](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp/blob/main/curriculum.md)
 ## References
