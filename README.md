@@ -30,7 +30,7 @@ More information is available at [curriculum.md](https://github.com/ONground-Kor
 ## References
 - [EECS 498-007 / 598-005](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 - [CS231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-- [COSE474 김승룡 교수님 딥러닝 강의]
+- COSE474 김승룡 교수님 딥러닝 강의
 
 ## License
 
